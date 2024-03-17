@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669904581913",
+    "project_id": "bank-bot-e56ca",
+    "storage_bucket": "bank-bot-e56ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669904581913:android:be1ffc508d1bd35a39c188",
+        "android_client_info": {
+          "package_name": "com.example.bank_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5WzmwNJwOqxZVZvr5Ehs913Z16ue2WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
